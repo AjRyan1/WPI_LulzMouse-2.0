@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</editorArea>
+</editors>
+<views>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="0">
+<expanded>
+<element path="/WPILulzMouse2"/>
+<element path="/WPILulzMouse2/CoOS"/>
+</expanded>
+<selection>
+<element path="/WPILulzMouse2"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.coocox.component.ui.Help" partName="Help">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.rcp.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.builder.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.restoreLayoutAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showOutlineAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showPeripheralsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.coocox.component.ui.Help"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@156f1b0">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1074" ratioRight="358" relationship="2" relative="org.eclipse.ui.internal.ViewStack@156f1b0">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@ab1c28" ratio="0.69947505" ratioLeft="533" ratioRight="229" relationship="4" relative="org.eclipse.ui.internal.ViewStack@156f1b0">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1988cc7" ratio="0.21997207" ratioLeft="315" ratioRight="1117" relationship="2" relative="org.eclipse.ui.internal.ViewStack@156f1b0">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.exampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1892f14" ratio="0.71978515" ratioLeft="804" ratioRight="313" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1988cc7">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="Help"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.20816864" ratioLeft="158" ratioRight="601" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1988cc7"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1158bbd" ratio="0.3687664" ratioLeft="281" ratioRight="481" relationship="4" relative="org.eclipse.ui.internal.ViewStack@156f1b0">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory/>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor" name="" tooltip="">
+<persistable>
+<org.coocox.builder.ui.editors.ConfigEditor/>
+</persistable>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="port.c" tooltip="WPILulzMouse2/CoOS/port.c">
+<persistable path="/WPILulzMouse2/CoOS/port.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="arch.c" tooltip="WPILulzMouse2/CoOS/arch.c">
+<persistable path="/WPILulzMouse2/CoOS/arch.c"/>
+</file>
+<file factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory" id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" tooltip="Repository">
+<persistable>
+<subPage/>
+</persistable>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="SmartMouse/main.c">
+<persistable path="/SmartMouse/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="kernelHeap.c" tooltip="SmartMouse/CoOS/kernelHeap.c">
+<persistable path="/SmartMouse/CoOS/kernelHeap.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="coocox.h" tooltip="C:\program files (x86)\coocox\coos\kernel\coocox.h">
+<persistable uri="file:/C:/program%20files%20(x86)/coocox/coos/kernel/coocox.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="serviceReq.c" tooltip="SmartMouse/cmsis_lib/source/serviceReq.c">
+<persistable path="/SmartMouse/cmsis_lib/source/serviceReq.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="utility.h" tooltip="SmartMouse/cmsis_lib/include/utility.h">
+<persistable path="/SmartMouse/cmsis_lib/include/utility.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="queue.c" tooltip="SmartMouse/cmsis_lib/source/queue.c">
+<persistable path="/SmartMouse/cmsis_lib/source/queue.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm4_simd.h" tooltip="SmartMouse/cmsis/core_cm4_simd.h">
+<persistable path="/SmartMouse/cmsis/core_cm4_simd.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="core_cmFunc.h" tooltip="SmartMouse/cmsis/core_cmFunc.h">
+<persistable path="/SmartMouse/cmsis/core_cmFunc.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm4.h" tooltip="SmartMouse/cmsis/core_cm4.h">
+<persistable path="/SmartMouse/cmsis/core_cm4.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="semihosting.h" tooltip="SmartMouse/semihosting/semihosting.h">
+<persistable path="/SmartMouse/semihosting/semihosting.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="semihosting.c" tooltip="SmartMouse/semihosting/semihosting.c">
+<persistable path="/SmartMouse/semihosting/semihosting.c"/>
+</file>
+</mruList>
+</workbench>
