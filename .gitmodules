@@ -1,0 +1,3 @@
+[submodule "ST7565-LCD"]
+	path = ST7565-LCD
+	url = https://github.com/adafruit/ST7565-LCD.git
